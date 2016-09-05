@@ -58,7 +58,7 @@ theme = "hugo-creative-theme"
         [[params.services.list]]
             icon = "fa-clone"
             title = "Fotocópia"
-            description = "Em vários formatos"
+            description = "Preto e branco e colorida!"
 
         [[params.services.list]]
 			icon = "fa-paperclip"
@@ -66,14 +66,14 @@ theme = "hugo-creative-theme"
 			description = "Da melhor qualidade"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Currículo Vitae"
+            icon = "fa-bars"
+            title = "Carimbos"
             description = ""
 
         [[params.services.list]]
-            icon = "fa-credit-card"
-            title = "Aceitamos cartão de crédito"
-            description = "VISA, Mastercard, Hipercard"
+            icon = "fa-envelope"
+            title = "Envio de e-mails"
+            description = ""
 
 
     # Portfolio modals
